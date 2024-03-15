@@ -19,8 +19,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 ![](./src/assets/preview.png)
 
 ### Links
-- Solution URL: [Github repository](https://github.com/Hemazyn/qr-code-ui)
-- Live Site URL: [Netlify Link](https://qr-ui.netlify.app/)
+- Solution URL: [Github repository](https://github.com/Hemazyn/blog-preview-card)
+- Live Site URL: [Netlify Link](https://devemma-blog.netlify.app/)
 
 ## My process
 ### Built with
