@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Figtree", sans-serif;
+  src: url("./assets/fonts/Figtree-ExtraBold.ttf") format("opentype");
+}
+
+@font-face {
+  font-family: "Figtree", sans-serif;
+  src: url("./assets/fonts/Figtree-SemiBold.ttf") format("opentype");
+}
